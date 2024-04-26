@@ -1,0 +1,441 @@
+
+.nav {
+  background-color: #f7e5d2;
+  width: 100%;
+  height: 90px;
+  padding-bottom: 10px;
+}
+
+.tabs {
+  display: flex;
+  /* float: left; */
+  justify-content: space-around;
+  padding-top: 38px;
+  /* padding-top: 1px;*/
+  margin-left: 46%;
+  /* word-spacing: 75px; */
+}
+
+/* .hhh {
+  top: 50px;
+  margin-top: 50px;
+} */
+
+header a {
+  color: black;
+  text-decoration: none;
+}
+
+.bottle {
+  
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 714px;
+  /* margin: left 100px;
+   padding-top: 236px;
+   padding-left: 130px;
+   /* margin: 70%; */
+  /* color: lightgrey;
+   font-size: 150%; */
+
+  /* /* z-index: 0px;   */
+}
+
+.master {
+  margin: left 100px;
+  padding-top: 160px;
+  padding-left: 90px;
+  color: white;
+  font-size: 155%;
+}
+
+.leo {
+  color: white;
+  font-size: 450%;
+  padding-left: 80px;
+
+}
+
+.button1 {
+  padding-left: 15px;
+  margin-left: 100px;
+  background-color: none;
+  padding: 15px 30px;
+  background: transparent;
+  border: 1px solid white;
+  color: white;
+  font-family: Arial;
+
+
+
+}
+
+.button2 {
+  padding-left: 15px;
+  margin-left: 50px;
+  background-color: none;
+  padding: 15px 30px;
+  background: transparent;
+  border: 1px solid white;
+  color: white;
+  font-family: Arial;
+
+
+}
+
+.button1:hover {
+  background-color: gray;
+  color: white;
+
+}
+
+.button2:hover {
+  background-color: gray;
+  color: white;
+}
+
+.velu {
+  float: left;
+  /* padding-top: 20px; */
+  /* display: flex;
+   justify-content: space-around;
+   padding-top: 2px; */
+  /* font-size: 150%;  
+   margin: 10px; */
+}
+
+.bheem {
+  background-color: #60695d;
+  width: 100%;
+  height: 75px;
+
+}
+
+.raju {
+  padding-top: 5px;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: white;
+
+
+}
+
+.white {
+  display: flex;
+  width: 100%;
+
+}
+
+.eat {
+  width: 49%;
+  /* height: auto; */
+}
+
+.knife {
+  width: 49%;
+  /* height: auto; */
+}
+
+.bike {
+  font-size: 500%;
+  padding-left: 102px;
+  padding-top: 123px;
+  margin: 0%;
+}
+
+.spoon {
+  font-size: 112%;
+  font-family: "Times New Roman", Times, serif;
+  padding-bottom: 12px;
+  padding-left: 104px;
+}
+
+.click {
+  text-align: center;
+  padding-left: 14px;
+  margin-left: 110px;
+  padding-top: 23px;
+  width: 26%;
+  border: 1px solid;
+  font-family: Arial;
+  padding-bottom: 16px;
+}
+
+.click:hover {
+  background-color: gray;
+}
+
+.white2 {
+  display: flex;
+  width: 100%;
+}
+
+/* .cup {
+  width: 50%;
+  height: auto;
+} */
+.tea {
+  font-size: 500%;
+  padding-left: 109px;
+  padding-top: 100px;
+  margin: 0%;
+}
+
+.drink {
+  font-size: 120%;
+  padding-left: 114px;
+}
+
+.click2 {
+  text-align: center;
+  padding-left: 14px;
+  margin-left: 120px;
+  padding-top: 23px;
+  width: 26%;
+  border: 1px solid;
+  font-family: Arial;
+  padding-bottom: 16px;
+  margin-top: 30px;
+}
+
+.click2:hover {
+  background-color: gray;
+}
+
+.table {
+  display: flex;
+  width: 100%;
+
+}
+
+.lady {
+  width: 50%;
+  /* height: auto; */
+}
+
+.chair {
+  font-size: 500%;
+  padding-left: 102px;
+  padding-top: 123px;
+  margin: 0%;
+}
+
+.bite {
+  font-size: 112%;
+  font-family: "Times New Roman", Times, serif;
+  padding-bottom: 12px;
+  padding-left: 104px;
+}
+
+.click3 {
+  text-align: center;
+  padding-left: 14px;
+  margin-left: 110px;
+  padding-top: 23px;
+  width: 26%;
+  border: 1px solid;
+  font-family: Arial;
+  padding-bottom: 16px;
+}
+
+.click3:hover {
+  background-color: gray;
+}
+
+.pink {
+  display: flex;
+  justify-content: center;
+  /* bottom: 60px; */
+  /* background-color: #fbf2e8; */
+  height: 350px;
+
+
+
+}
+
+.ggg {
+  text-align: center;
+  font-size: 400%;
+}
+
+.fff {
+  background-color: #fbf2e8;
+}
+
+.rose {
+  /* display: flex; */
+  text-align: center;
+  font-size: 400%;
+  padding-top: 7%;
+  margin: 0%;
+
+}
+
+.address {
+  /* display: flex; */
+  margin: 0%;
+  font-size: 211%;
+  text-align: center;
+  margin-right: 36%;
+  margin-top: 54px;
+}
+
+.lap {
+  margin-left: 0%;
+  font-size: 55%;
+}
+
+.lap2 {
+  margin-left: 0%;
+  font-size: 56%;
+}
+
+.line {
+  border-left: 1px solid black;
+  height: 150px;
+  margin-left: 50%;
+  position: relative;
+  bottom: 200px;
+}
+
+.open {
+  /* display: flex; */
+  font-size: 211%;
+  /* text-align: right; */
+  float: right;
+  margin-top: 54px;
+  margin-bottom: 500px;
+}
+
+.lap3 {
+  font-size: 53%;
+  padding-left: 27px;
+}
+
+.lap4 {
+  font-size: 53%;
+  padding-left: 27px;
+}
+
+.lap5 {
+  font-size: 52%;
+  padding-left: 44px;
+}
+
+.leaf {
+  display: flex;
+  width: 100%;
+}
+
+.ice,
+.ice2,
+.ice3,
+.ice4,
+.ice5 {
+  width: 20%;
+}
+
+.bro {
+  display: flex;
+  background-color: #404d3c;
+  height: 500px;
+  /* margin-top: 0%; */
+}
+.bro1{
+  
+  margin: 10%;
+  margin-bottom: 100%;
+}
+
+.news1 {
+  font-size: 178%;
+  color: white;
+  padding-top: 10px
+}
+
+.news2 {
+  font-size: 110%;
+  color: white;
+}
+
+.news3 {
+  font-size: 110%;
+  color: white;
+}
+
+.chat {
+  border-color: lightgrey;
+  width: 70%;
+  height: 36px;
+  background-color: transparent;
+
+}
+.com1{
+  display: flex;
+  width: 100%;
+}
+.join{
+background-color: transparent;
+border-color:  lightgrey;
+width: 30%;
+color: white;
+
+}
+.join:hover{
+  background-color: gray;
+}
+.chat:hover{
+  background-color: gray;
+}
+.talk{
+  /* display: flex; */
+  padding-top: 142px;
+}
+.app{
+  display: flex;
+}
+.to{
+  color: white;
+  font-size: 180%;
+}
+.to2{
+  color: white;
+  font-size: 120%;
+}
+.to3{
+  color: white;
+  font-size: 120%;
+}
+.insta{
+  font-size: 300%;
+  color: white;
+  margin: auto;
+  margin-left: 170px 
+}
+
+
+/* .kfc{
+  display: flex;
+  width: auto;
+} */
+@media only screen and (max-width: 1200px) {
+  .tabs {
+    display: none;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .tabs {
+    display: none;
+  }
+
+  .leo {
+    font-size: 301%;
+    background-size: 651px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .tabs {
+    display: none;
+  }
+}
